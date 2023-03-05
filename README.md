@@ -1,4 +1,5 @@
 # CausalMRI
 Code for paper "Causal Image Synthesis of Brain MR in 3D"
  
-To be update...
+# Requirements
+Please see environment.txt for the required packages.
